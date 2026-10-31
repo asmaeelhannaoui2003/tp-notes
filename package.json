@@ -9,8 +9,8 @@
   "dependencies": {
     "express": "^4.21.2",
     "ip-address": "^10.3.1",
-    "pacote": "^22.0.1",
+    "pacote": "^16.0.0",
     "picomatch": "^4.0.4",
-    "sigstore": "^5.0.0"
+    "sigstore": "^1.9.0"
   }
 }
