@@ -3,3 +3,5 @@ node_modules/
 *.env
 sbom*.json
 Dockerfile.naif
+*.swp
+.*.swp
